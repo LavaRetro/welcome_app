@@ -1,0 +1,20 @@
+void main()
+{
+  printf("\n");
+  printf("欢迎使用 LavaRetro\n");
+  printf("\n");
+  printf("按任意按键继续...");
+  getchar();
+  SetScreen(1);
+  printf("LavaRetro 可以在苹果设备上模拟运行 Lava 语言编写的东西，让你重新体验20年前简单的快乐。\n\n");
+  printf("按任意按键继续...");
+  getchar();
+  SetScreen(1);
+  printf("lav 和 pac 格式都受支持\n\n");
+  printf("关于如何导入游戏，请参考设置菜单中的相关文档\n\n");
+  printf("祝你玩得开心");
+  
+  //printf("按任意按键继续...");
+  getchar();
+  
+}
